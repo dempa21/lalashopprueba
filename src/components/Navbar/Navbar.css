@@ -1,0 +1,39 @@
+
+@media screen and (min-width: 700px) {
+    .form {
+        padding-left: 100px;
+    }
+  }
+
+.logo{
+    width: 100px;
+}
+
+.cart{
+    width: 35px;
+    padding-right: 15px;
+}
+
+.nav-item {
+    color: azure;
+    padding-left: 15px;
+}
+
+.NavbarBrand {
+    justify-content: center;
+}
+
+.a{
+    display: flex;
+    text-decoration: none;
+}
+
+.navbar-toggle-icon {
+    background: url('../../assets/img/menu-50.png');
+}
+
+/* @media screen and (max-width: 700px) {
+    .navbar-toggle-icon {
+        background: url('../../assets/img/menu-50.png');
+    }
+  } */
