@@ -18,7 +18,7 @@ import { ToastContainer, toast, Zoom, Bounce } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 function App() {
-  toast.success("Proceder al checkout");
+
   function handleLogin(username) {
     alert(`${username} Iniciaste sesión`);
   }
